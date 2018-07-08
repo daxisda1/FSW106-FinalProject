@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Dane Shambrook",
+    "label": "Programmer",
+    "picture": "",
+    "email": "daxisda1@gmail.com",
+    "phone": "(714)-878-3508",
+    "website": "https://daneshambrook.com",
+    "summary": "Dane is from Orange County, California. He is a graduate of Woz-U in full stack programming. Before working as a full stack programmer, Dane worked in the service industry. While his work primarily focuses on uniting creatives through coding, his true passion is to bridge the gap between those at risk and suffering. It is because of this that Dane has linked software that is both lucrative and unites those of influence with those who are marginalized. ",
+    "location": {
+      "address": "195 S Jameson",
+      "postalCode": "92866",
+      "city": "Orange",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "instagram",
+        "username": "daxisda1",
+        "url": ""
+      },
+      {
+        "network": "facebook",
+        "username": "dane.shambrook",
+        "url": "https://www.facebook.com/dane.shambrook"
+      },
+      {
+        "network": "github",
+        "username": "daxisda1",
+        "url": "https://github.com/daxisda1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Omnis",
+      "position": "CEO/President",
+      "website": "https://omnis.com",
+      "startDate": "2018-12-03",
+      "endDate": "2018-12-07",
+      "summary": "Omnis connects coders",
+      "highlights": [
+        "Build an algorithm for artist to detect other coders in their surrounding area",
+        "Successfully won Techcrunch Disrupt"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cal Baptist",
+      "area": "Philosophy",
+      "studyType": "Bachelor",
+      "startDate": "2009-06-01",
+      "endDate": "2013-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Allan Proctor",
+      "reference": "Dane is the best guy I know!"
+    },
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
